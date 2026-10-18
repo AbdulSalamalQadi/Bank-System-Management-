@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Build output
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.pch
+*.gch
+*.gcda
+*.gcno
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+ninja-build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
